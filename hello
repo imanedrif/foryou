@@ -1,11 +1,9 @@
-<DOCTYPE!html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>
-welcome
-</title>
-</head>
-<body>
-hello jojo 
+<title> hello jojo </title>
+<h1 style="color:black;text-alogn:center;font-weight:bold;font-size:30px">
+<p>Hi mr khattabi this is for you &#128150; &#128140; </p>
+<a href="babyface">CLICK HERE!</a>
 </body>
 </html>
